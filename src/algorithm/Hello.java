@@ -1,5 +1,5 @@
-package test;
+package algorithm;
 
 public class Hello {
-
+	
 }
